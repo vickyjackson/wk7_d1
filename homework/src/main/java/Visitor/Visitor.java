@@ -1,3 +1,5 @@
+package Visitor;
+
 public class Visitor {
 
     private int age;
